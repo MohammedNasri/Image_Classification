@@ -1,0 +1,14 @@
+- os
+- torch
+- zipfile
+- numpy
+- pandas
+- PIL
+- matplotlib
+- torchvision
+- google.colab
+- transformers
+- datasets
+- tensorflow=='2.15'
+- evaluate
+- accelerate
